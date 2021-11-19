@@ -8,13 +8,13 @@
 
 **Summary:** Deployment was done by using virtualbox.
 
-<img src="mhn-admin.gif">
+<img src="mhn.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Dionaea is a honeypot that captures attack payloads and malware.
 
-<img src="dionaea-honeypot.gif">
+<img src="dionaea.gif">
 
 ## Notes
 
