@@ -8,7 +8,7 @@
 
 **Summary:** Deployment was done by using virtualbox.
 
-<img src="mhn.gif">
+<img src="mhm.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
